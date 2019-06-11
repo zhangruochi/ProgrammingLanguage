@@ -140,7 +140,6 @@ Week 1 of Part A has a more detailed list of topics for all three parts of the c
 - [Attachments](./week1/attachments)
 
 
-
 ### Week2
 - Overview
 - [Note](./week2/README.md)
