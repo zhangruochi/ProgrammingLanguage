@@ -134,43 +134,43 @@ Week 1 of Part A has a more detailed list of topics for all three parts of the c
 
 ### Week1
 - Overview
-- [Note](./week1/README.md)
-- [Slides](./week1/slides)
-- [Projects](./week1/projects)
-- [Attachments](./week1/attachments)
+- [Note](./part1/week1/README.md)
+- [Slides](./part1/week1/slides)
+- [Projects](./part1/week1/projects)
+- [Attachments](./part1/week1/attachments)
 
 
 ### Week2
 - Overview
-- [Note](./week2/README.md)
-- [Slides](./week2/slides)
-- [Projects](./week2/projects)
-- [Attachments](./week2/attachments)
+- [Note](./part1/week2/README.md)
+- [Slides](./part1/week2/slides)
+- [Projects](./part1/week2/projects)
+- [Attachments](./part1/week2/attachments)
 
 
 ### Week3
 - Overview
-- [Note](./week3/README.md)
-- [Slides](./week3/slides)
-- [Projects](./week3/projects)
-- [Attachments](./week3/attachments)
+- [Note](./part1/week3/README.md)
+- [Slides](./part1/week3/slides)
+- [Projects](./part1/week3/projects)
+- [Attachments](./part1/week3/attachments)
 
 
 ### Week4
 - Overview
 - 
-- [Note](./week4/README.md)
-- [Slides](./week4/slides)
-- [Projects](./week4/projects)
-- [Attachments](./week4/attachments)
+- [Note](./part1/week4/README.md)
+- [Slides](./part1/week4/slides)
+- [Projects](./part1/week4/projects)
+- [Attachments](./part1/week4/attachments)
 
 
 
 ### Week5
-- [Note](./week5/README.md)
-- [Slides](./week5/slides)
-- [Projects](./week5/projects)
-- [Attachments](./week5/attachments)
+- [Note](./part1/week5/README.md)
+- [Slides](./part1/week5/slides)
+- [Projects](./part1/week5/projects)
+- [Attachments](./part1/week5/attachments)
 
 
 
